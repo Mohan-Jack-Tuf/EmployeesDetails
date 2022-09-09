@@ -33,7 +33,11 @@ public class EmployeeDetails<string> {
 		EmployeeDetails e = new EmployeeDetails();
 		e.employeeDetails();
 		
+
+		System.out.println("mohan's code");
 		System.out.println("nalin's code");
+
+		
 	}
     
 	}
