@@ -32,6 +32,8 @@ public class EmployeeDetails<string> {
     public static void main(String[] args) {
 		EmployeeDetails e = new EmployeeDetails();
 		e.employeeDetails();
+		
+		System.out.println("mohan's code");
 	}
     
 	}
